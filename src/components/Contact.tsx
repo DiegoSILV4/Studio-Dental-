@@ -77,7 +77,7 @@ export function Contact() {
               </div>
               <button
                 type="submit"
-                className="w-full text-black bg-[#FFD700] px-4 py-2 rounded-md hover:bg-blue-700"
+                className="w-full text-black bg-[#FFD700] px-4 py-2 rounded-md hover:bg-[#FFD000]"
               >
                 Enviar Mensagem
               </button>
