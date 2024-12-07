@@ -1,5 +1,4 @@
 import React from 'react';
-import { Calendar } from 'lucide-react';
 import imgcon from '../assets/2024-02-23.jpg';
 
 export function Hero() {
