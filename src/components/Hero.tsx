@@ -4,7 +4,7 @@ import imgcon from '../assets/2024-02-23.jpg';
 export function Hero() {
   return (
     <div
-      className="relative h-screen bg-cover bg-center"
+      className="relative h-[550px] bg-cover bg-center"
       style={{ backgroundImage: `url(${imgcon})` }}
     >
       {/* Overlay mais escuro para destaque */}

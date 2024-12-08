@@ -3,22 +3,22 @@ import { Sparkles, Shield, Heart, Smile } from 'lucide-react';
 
 const services = [
   {
-    title: 'General Dentistry',
+    title: 'Limpeza',
     description: 'Comprehensive dental care including cleanings, fillings, and preventive treatments.',
     icon: Shield,
   },
   {
-    title: 'Cosmetic Dentistry',
+    title: 'Manutenção',
     description: 'Transform your smile with whitening, veneers, and other aesthetic procedures.',
     icon: Sparkles,
   },
   {
-    title: 'Emergency Care',
+    title: 'Facetas..',
     description: '24/7 emergency dental services when you need immediate attention.',
     icon: Heart,
   },
   {
-    title: 'Orthodontics',
+    title: 'Lando',
     description: 'Straighten your teeth with modern braces and clear aligners.',
     icon: Smile,
   },

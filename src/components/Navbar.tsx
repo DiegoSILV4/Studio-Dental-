@@ -1,6 +1,6 @@
 import React from 'react';
 import { Stethoscope, Phone, Clock } from 'lucide-react';
-import logo from '../assets/Design sem nome (4).png';
+import logo from '../assets/logoPreta.png';
 
 export function Navbar() {
   return (
@@ -12,7 +12,7 @@ export function Navbar() {
             <img 
               src={logo}
               alt="BrightSmile Dental Logo" 
-              className="h-12 w-auto"
+              className="h-[100px] w-[220px]"
             />
           </div>
           
